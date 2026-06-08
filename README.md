@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Dynamic Glowing Header Animation Placeholder -->
-  <img src="https://adobe.com" width="100%" alt="Adobe AI Banner Animation"/>
+  <img src="https://kommodo.ai/i/uOjcp3nTuZgX0l1ktAkv" width="100%" alt="Adobe AI Banner Animation"/>
   <br/><br/>
   
   <!-- Sleek Status Badges -->
