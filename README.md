@@ -2,13 +2,12 @@
 
 <div align="center">
   <!-- Dynamic Glowing Header Animation Placeholder -->
-  <img src="https://kommodo.ai/i/uOjcp3nTuZgX0l1ktAkv" width="100%" alt="Adobe AI Banner Animation"/>
-  <br/><br/>
   
+  <br/><br/>
+  <img width="300" height="168" alt="Adbo" src="https://github.com/user-attachments/assets/ed7663d4-4698-477e-9b48-862a3b9499bb" />
+
   <!-- Sleek Status Badges -->
-  <img src="https://kommodo.ai/i/uOjcp3nTuZgX0l1ktAkv" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  
 
   <br/>
   <h3><i>"The canvas of tomorrow isn't painted with pixels; it's shaped by human intent."</i></h3>
