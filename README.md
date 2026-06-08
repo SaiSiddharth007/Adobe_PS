@@ -6,7 +6,7 @@
   <br/><br/>
   
   <!-- Sleek Status Badges -->
-  <img src="https://shields.io" />
+  <img src="https://kommodo.ai/i/uOjcp3nTuZgX0l1ktAkv" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
 
